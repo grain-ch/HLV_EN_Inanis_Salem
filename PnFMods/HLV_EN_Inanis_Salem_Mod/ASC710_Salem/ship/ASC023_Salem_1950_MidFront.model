@@ -1,7 +1,6 @@
 <ASC023_Salem_1950_MidFront.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/ship/lods/ASC023_Salem_1950_MidFront_lod1	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/ship/ASC023_Salem_1950_MidFront	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/ship/ASC023_Salem_1950_MidFront.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ASC023_Salem_1950_MidFront.model>

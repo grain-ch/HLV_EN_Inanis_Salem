@@ -11,10 +11,10 @@
 		<Texture>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/ARS015_Radar_SP_a.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/ARS015_Radar_SP_mg.dds	</Texture>
+		<Texture>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/FRS036_Radar_SM_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/ARS015_Radar_SP_n.dds	</Texture>
+		<Texture>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/FRS036_Radar_SM_n.dds	</Texture>
 	</property>
 	<property>	g_detailAlbedoInfluence
 		<Float>	0.6000	</Float>

@@ -1,7 +1,6 @@
 <AGS010_5in38_Mk32_Mod12_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/gun/lods/AGS010_5in38_Mk32_Mod12_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/gun/AGS010_5in38_Mk32_Mod12_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/gun/AGS010_5in38_Mk32_Mod12_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AGS010_5in38_Mk32_Mod12_dead.model>

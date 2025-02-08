@@ -1,7 +1,8 @@
 <ARS015_Radar_SP.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/lods/ARS015_Radar_SP_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/ARS015_Radar_SP	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_EN_Inanis_Salem_Mod/ASC710_Salem/radar/ARS015_Radar_SP.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS015_Radar_SP/ARS015_Radar_SP.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ARS015_Radar_SP.model>
